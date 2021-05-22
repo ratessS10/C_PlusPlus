@@ -1,6 +1,6 @@
 ## What's this?
 
-These codes literally simple codes(for C++) However I think these codes really helpful for understand to C++.
+These codes literally simple codes(for C&C++) However I think these codes really helpful for understand to C++.
 
 
 ### Empty Information(Kappa)
