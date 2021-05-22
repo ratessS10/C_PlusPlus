@@ -5,5 +5,5 @@ These codes literally simple codes(for C++) However I think these codes really h
 
 ### Empty Information(Kappa)
 
-* I used code::blocks(easy way for short code)
+* You can use any IDE
 * If these codes really helpful for you I truly appreciate for this.
