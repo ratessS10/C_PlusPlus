@@ -1,5 +1,6 @@
 // C function showing how to do time delay
 #include <stdio.h>
+#include <iostream>
 // To use time library of C
 #include <time.h>
 
